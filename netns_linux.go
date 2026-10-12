@@ -15,7 +15,7 @@ package netlink
 import (
 	"fmt"
 
-	"github.com/ldxw/vohive-release/netlink/nl"
+	"github.com/iniwex5/netlink/nl"
 	"golang.org/x/sys/unix"
 )
 

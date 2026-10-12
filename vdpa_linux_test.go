@@ -5,7 +5,7 @@ import (
 	"syscall"
 	"testing"
 
-	"github.com/ldxw/vohive-release/netlink/nl"
+	"github.com/iniwex5/netlink/nl"
 )
 
 // tests in this package require following modules: vdpa, vdpa_sim, vdpa_sim_net

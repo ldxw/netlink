@@ -6,7 +6,7 @@ import (
 	"net"
 	"syscall"
 
-	"github.com/ldxw/vohive-release/netlink/nl"
+	"github.com/iniwex5/netlink/nl"
 	"github.com/vishvananda/netns"
 	"golang.org/x/sys/unix"
 )

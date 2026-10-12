@@ -3,7 +3,7 @@ package netlink
 import (
 	"encoding/binary"
 
-	"github.com/ldxw/vohive-release/netlink/nl"
+	"github.com/iniwex5/netlink/nl"
 )
 
 var (

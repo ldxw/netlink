@@ -1,6 +1,6 @@
 package netlink
 
-import "github.com/ldxw/vohive-release/netlink/nl"
+import "github.com/iniwex5/netlink/nl"
 
 // Family type definitions
 const (

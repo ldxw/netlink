@@ -1,4 +1,4 @@
-module github.com/ldxw/vohive-release/netlink
+module github.com/iniwex5/netlink
 
 go 1.23
 

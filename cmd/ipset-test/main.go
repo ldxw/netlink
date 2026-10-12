@@ -11,7 +11,7 @@ import (
 	"os"
 	"sort"
 
-	"github.com/ldxw/vohive-release/netlink"
+	"github.com/iniwex5/netlink"
 )
 
 type command struct {

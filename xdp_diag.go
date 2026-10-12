@@ -1,6 +1,6 @@
 package netlink
 
-import "github.com/ldxw/vohive-release/netlink/nl"
+import "github.com/iniwex5/netlink/nl"
 
 const SOCK_ANY_COOKIE = uint64(nl.TCPDIAG_NOCOOKIE)<<32 + uint64(nl.TCPDIAG_NOCOOKIE)
 
